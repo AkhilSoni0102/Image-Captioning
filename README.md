@@ -1,2 +1,2 @@
 # Image-Captioning
-This repository contains the project which we did in one of our college courses named "Pattern Recognition and machine learning"
+Image captioning is a very popular project, it uses tranfer learning like Inception v3 model and globe embedding
